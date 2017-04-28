@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## Preliminary results of the User study
+### The Study
+We did a comparitive study between our product Dpen and an image recognotion software "Text Fairy".
+We performed the tests varying the number of characters written. We started with 4 incrementing the number of charters by 4 for each iteration.
 
-You can use the [editor on GitHub](https://github.com/lungiman/projectUserStatus/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Observations
+We can see that the time taken to digitize using our device is much smaller for lesser characters .This is because the time taken to make corrections turn out to be less as well as the percentage of errors detected are also lesser.
+However as the number of characters increase we can see that the number of corrections keep increasing.A user who is fast at making corrections benefit from our device.Also to be noted that the image processing app is also prone to errors. The error depends upon the handwriting of the user.Eg the user 3 had  a handwriting which was easy to digitize and hence the time taken by him is lower than the time taken by our product.However in the case of user 4 we can see that the image recongnition software is highly error prone.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Conclusion
+Our device benefits people who can make faster corrections and whos handwriting is difficult to detect.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lungiman/projectUserStatus/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
