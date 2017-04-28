@@ -1,7 +1,11 @@
 ## Preliminary results of the User study
 ### The Study
-We did a comparitive study between our product Dpen and an image recognotion software "Text Fairy".
+We did a comparitive study between our product Dpen and an image recognotion software "Text Fairy" on 12 users.
 We performed the tests varying the number of characters written. We started with 4 incrementing the number of charters by 4 for each iteration.
+![4 characters](4char.png)
+![8 characters](8char.png)
+![12 characters](12char.png)
+
 
 ### Observations
 We can see that the time taken to digitize using our device is much smaller for lesser characters .This is because the time taken to make corrections turn out to be less as well as the percentage of errors detected are also lesser.
