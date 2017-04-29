@@ -18,7 +18,7 @@ However as the number of characters increase we can see that the number of corre
 ### The Final Prototype
 Below is the image of our final prototype.
 
-![Prototype](prototype.png)
+![Prototype](prototype.jpg)
 
 ### Conclusion
 Our device benefits people who can make faster corrections and whos handwriting is difficult to detect.
