@@ -4,11 +4,11 @@ We did a comparitive study between our product Dpen and an image recognotion sof
 the Wizard of Oz technique of conducting the user study because of having issues with the classifier.
 We performed the tests varying the number of characters a user writes. We started with 4 incrementing the number of charters by 4 for each iteration.The results from the study are shown below.
 
-![4 characters](4char.png)
+![4 characters](4char7.png)
 
-![8 characters](8char.png)
+![8 characters](8char7.png)
 
-![12 characters](12char.png)
+![12 characters](12char7.png)
 
 
 ### Observations
